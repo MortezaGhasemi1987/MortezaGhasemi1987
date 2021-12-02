@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MortezaGhasemi1987
+- 👋 Hi, I’m Morteza Ghasemi
 - 👀 I’m interested in Software Static Analysis, Verification, Code Inspection and Test Tool Development
 - 🌱 I’m currently learning for ISTQB
 - 💞️ I’m looking to collaborate on code review for softwares that quality is a must.
