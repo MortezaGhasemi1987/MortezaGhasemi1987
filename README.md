@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MortezaGhasemi1987
 - 👀 I’m interested in Software Static Analysis, Verification, Code Inspection and Test Tool Development
 - 🌱 I’m currently learning for ISTQB
-- 💞️ I’m looking to collaborate on code review for oftwares that quality is a must.
+- 💞️ I’m looking to collaborate on code review for softwares that quality is a must.
 - 📫 How to reach me ...
 
 <!---
